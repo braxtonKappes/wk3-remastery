@@ -1,4 +1,13 @@
-// your code here!
+/*
+Write a function makeAddLib(verb, adj, noun) that accepts three strings.
+
+Use string interpolation to return a new wacky string using the three string args.  See the examples for more information.
+*/
+
+function makeAddLib(verb, adj, noun) {
+  // your code here!
+
+}
 
 
 console.log(makeAddLib("swim", "sparkly", "rainbow")); // => "I shall swim to the sparkly rainbow?"
